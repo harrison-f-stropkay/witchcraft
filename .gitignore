@@ -1,4 +1,7 @@
 GOOGLE_API_KEY.txt
+driver.py
+nohup.out
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
